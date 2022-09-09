@@ -1,0 +1,11 @@
+/*estilo de la intro*/
+body {
+    background-color: rgb(88, 88, 88);
+    font-style:inherit;
+  }
+
+  button {
+    display: flexbox; 
+    margin-right: auto;
+    margin-left: auto;
+  }
